@@ -6,13 +6,13 @@ const Footer = ()=>{
             <div className="footer-container">
                 <div className="footer-info">
                     <h3>About Us</h3>
-                    <p>We are a shoe shop that specializes in comfortable, stylish footwear.</p>
+                    <p>Good Shoes Takes You Good Places</p>
                 </div>
                 <div className="footer-contact">
                     <h3>Contact Us</h3>
-                    <p>123 Main St.</p>
-                    <p>Anytown, USA</p>
-                    <p>Phone: 555-1234</p>
+                    <p>Anna Nagar</p>
+                    <p>Madurai,TamilNadu</p>
+                    <p>Phone: 8765456783</p>
                     <p>Email: info@myshoeshop.com</p>
                 </div>
                 <div className="footer-social">

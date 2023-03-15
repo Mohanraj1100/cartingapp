@@ -5,9 +5,11 @@
     background-color: black;
     color: white;
     align-items: center;
+    width: 300px;
 }
 .leftside button{
     height: 50px;
     width: 50px;
     margin-top: 20px;
+    background-color: grey;
 }

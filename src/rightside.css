@@ -3,14 +3,20 @@
     display: flex;
     flex-direction: row;
     flex-wrap: wrap; 
-    justify-content: space-evenly; 
+    justify-content:space-between;
     padding: 10px;
     gap: 5px;
 }
+.image-container h4{
+    margin: 0px;
+}
+.image-container h5{
+    margin: 0px;
+}
 .image{
-    height:auto;
-    width: 25%;
-    border: 2px solid black;
+    height:350px;
+    width: 300px;
+    border: 2px solid rgb(234, 216, 216);
     border-radius: 10px;
     background-color: rgb(155, 223, 223);
     padding: 10px; 
@@ -26,7 +32,6 @@
     width: 80%;
     padding: 10px;
     background-color: #f0f8ff;
-    cursor: pointer;
 }
 
 .cart-button{
