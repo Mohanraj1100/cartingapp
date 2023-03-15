@@ -1,6 +1,6 @@
 import { FaCartPlus } from "react-icons/fa";
 import { Link } from "react-router-dom";
-import './header.css';
+import '../styles/header.css'
 const Header=(props)=>{
     return(
         <div className="header">

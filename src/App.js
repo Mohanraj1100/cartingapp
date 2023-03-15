@@ -1,12 +1,12 @@
-import Header from './header';
-import Nav from './leftside';
+import Header from './components/header';
+import Nav from './components/leftside';
 import './App.css';
-import MainContent from './rightside'
-import Footer from './footer';
+import MainContent from './components/rightside'
+import Footer from './components/footer';
 import { useState } from 'react';
 import { BrowserRouter as Switch, Route, Routes } from 'react-router-dom';
-import Addcart from './addcart';
-import Individual from './individualcart';
+import Addcart from './components/addcart';
+import Individual from './components/individualcart';
 
 function App() {
   const [Products, setProducts] = useState([]);

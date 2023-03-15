@@ -18,7 +18,7 @@
     width: 300px;
     border: 2px solid rgb(234, 216, 216);
     border-radius: 10px;
-    background-color: rgb(155, 223, 223);
+    /* background-color: rgb(155, 223, 223); */
     padding: 10px; 
     display: flex;
     flex-direction: column;

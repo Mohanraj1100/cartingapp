@@ -1,4 +1,4 @@
-import './rightside.css';
+import '../styles/rightside.css'
 const MainContent = (props) => {
 
 

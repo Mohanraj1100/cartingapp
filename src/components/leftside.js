@@ -1,4 +1,4 @@
-import './leftside.css'
+import '../styles/leftside.css'
 import { Link } from 'react-router-dom'
 const Nav=(props)=>
 {
