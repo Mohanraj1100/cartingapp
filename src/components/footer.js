@@ -1,6 +1,7 @@
 import '../styles/footer.css'
 import { FaWhatsapp , FaInstagram , FaFacebook } from "react-icons/fa";
 const Footer = ()=>{
+    // console.log("footer");
     return(
         <div className="footer">
             <div className="footer-container">
